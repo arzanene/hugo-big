@@ -1,4 +1,4 @@
-baseURL = "https://mysuperspecialrecipes.web.app/"
+baseURL = "https://hugo-big.vercel.app/"
 languageCode = "en-us"
 title = "Best Recipes"
 theme = "big"
@@ -41,7 +41,7 @@ theme = "big"
 
 [author]
     name = "Clara Bernadette"
-    homepage = "https://mysuperspecialrecipes.web.app/"
+    homepage = "https://hugo-big.vercel.app/"
     bio = "True Food Lover"
     image = "https://i.imgur.com/qNQv8nK.jpg"
 
