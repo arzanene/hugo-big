@@ -18,13 +18,3 @@ jobs:
 
       - name: Build Static HTML
         run: hugo
-
-      - name: Install Dependencies
-        run: npm install
-
-      - name: Deploy to Firebase
-        uses: w9jds/firebase-action@master
-        with:
-          args: deploy --only hosting
-        env:
-          FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
