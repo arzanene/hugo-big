@@ -1,6 +1,6 @@
 baseURL = "https://hugo-big.vercel.app/"
 languageCode = "en-us"
-title = "Best Recipes"
+title = "Top Best Recipes"
 theme = "big"
 
 [taxonomies]
